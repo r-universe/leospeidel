@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/leospeidel/leospeidel.r-universe.dev
 	branch = HEAD
+[submodule "twigstats"]
+	path = twigstats
+	url = https://github.com/leospeidel/twigstats
