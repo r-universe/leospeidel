@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/leospeidel/leospeidel.r-universe.dev
 	branch = HEAD
+[submodule "relater"]
+	path = relater
+	url = https://github.com/leospeidel/relater
 [submodule "twigstats"]
 	path = twigstats
 	url = https://github.com/leospeidel/twigstats
